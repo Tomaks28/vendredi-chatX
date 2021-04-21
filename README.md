@@ -13,13 +13,11 @@ HISTORY=10
 pour lancer l'application web ReactJS
 
 ```zsh
-cd client
-npm start
+cd client && npm install && npm start
 ```
 
 pour lancer le serveur
 
 ```zsh
-cd server
-npm start
+cd server && npm install && npm start
 ```
